@@ -5,17 +5,17 @@ C# vNext new feature samples.
 
 ## C# 7 Samples
 
-* BinaryLiterals
-* DigitSeparators
-* OutVariableDeclarations
-* LocalFunctions
-* RefLocalsAndRefReturns
+* Binary Literals
+* Digit Separators
+* Out Variable Declarations
+* Local Functions
+* Ref Locals / Ref Returns
 * Tuples
 * Deconstructions
-* TypeSwitch
-* ThrowExpressions
-* ExpressionBodiedEverything
-* ArbitraryAsyncReturns
+* Type Switch
+* Throw Expressions
+* Expression-Bodied Everything
+* Arbitrary Async Returns
 
 
 
