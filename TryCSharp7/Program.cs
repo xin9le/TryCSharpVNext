@@ -22,6 +22,7 @@ namespace TryCSharp7
                 new ThrowExpressions(),
                 new ExpressionBodiedEverything(),
                 new ArbitraryAsyncReturns(),
+                new Discards(),
             };
 
             foreach (var x in featrues)

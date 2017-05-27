@@ -16,6 +16,7 @@ C# vNext new feature samples.
 * Throw Expressions
 * Expression-Bodied Everything
 * Arbitrary Async Returns
+* Discards
 
 
 

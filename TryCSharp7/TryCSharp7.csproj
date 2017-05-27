@@ -47,6 +47,7 @@
     <Compile Include="ClassLibraries\ValueTuple\TupleElementNamesAttribute.cs" />
     <Compile Include="ClassLibraries\ValueTuple\TupleExtensions.cs" />
     <Compile Include="ClassLibraries\ValueTuple\ValueTuple.cs" />
+    <Compile Include="Features\Discards.cs" />
     <Compile Include="Features\TypeSwitch.cs" />
     <Compile Include="Features\Deconstructions.cs" />
     <Compile Include="Features\ArbitraryAsyncReturns.cs" />
